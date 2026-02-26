@@ -1,6 +1,4 @@
-
-// import HolaMundo from './components/HolaMundo'
-import Alberto from './components/Alberto'
+import Perfil from './components/Perfil'
 import './App.css'
 
 const App = () => {
@@ -8,7 +6,7 @@ const App = () => {
   return (
     <>
       {/* <HolaMundo /> */}
-      <Alberto />
+      <Perfil />
     </>
   )
 }

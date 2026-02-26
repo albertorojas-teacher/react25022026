@@ -1,14 +1,11 @@
-
-// import HolaMundo from './components/HolaMundo'
-import Alberto from './components/Alberto'
+import Aranceles from './components/Aranceles/Aranceles'
 import './App.css'
 
 const App = () => {
 
   return (
     <>
-      {/* <HolaMundo /> */}
-      <Alberto />
+      <Aranceles />
     </>
   )
 }

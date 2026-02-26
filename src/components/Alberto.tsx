@@ -7,7 +7,7 @@ const Alberto = () => {
     const jobs:string[] = ["Portero", "Barrendero", "Profesor"]
   return (
     <>
-    <div>{name} que tiene {edad} años de edad</div>
+    <div className='text-blue-600/100 dark:text-sky-400/100'>{name} que tiene {edad} años de edad</div>
     <div>{jobs[1]}</div>
     <img src={reactSVG} alt="Algo" />
     </>

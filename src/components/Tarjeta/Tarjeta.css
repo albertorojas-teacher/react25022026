@@ -1,0 +1,16 @@
+.card {
+    padding: 20px;
+    border-radius: 8px;
+    border: 2px solid #ccc;
+    margin: 10px;
+}
+
+.urgent {
+    border-color: #e01f1f;
+    background-color: #fdecea;
+}
+
+.normal {
+border-color: #0288d1;
+background-color: #e1f5fe;
+}
